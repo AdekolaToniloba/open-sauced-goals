@@ -1,9 +1,9 @@
 [
   {
     "full_name": "Shabinder/SpotiFlyer",
-    "stargazers_count": 7109,
-    "open_issues_count": 1220,
-    "forks_count": 578
+    "stargazers_count": 7144,
+    "open_issues_count": 1232,
+    "forks_count": 581
   },
   {
     "full_name": "davidrazmadzeExtra/CRA_ReactJS_Cleanup",
@@ -14,7 +14,7 @@
   {
     "full_name": "outreachy/website",
     "stargazers_count": 190,
-    "open_issues_count": 169,
+    "open_issues_count": 167,
     "forks_count": 225
   },
   {
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "fireship-io/flamethrower",
-    "stargazers_count": 2543,
+    "stargazers_count": 2544,
     "open_issues_count": 24,
-    "forks_count": 101
+    "forks_count": 102
   },
   {
     "full_name": "hcabel/UnrealVsCodeHelper",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "HospitalRun/hospitalrun-frontend",
-    "stargazers_count": 6703,
+    "stargazers_count": 6708,
     "open_issues_count": 72,
-    "forks_count": 2141
+    "forks_count": 2143
   },
   {
     "full_name": "hoodiehq/hoodie",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "up-for-grabs/up-for-grabs.net",
-    "stargazers_count": 4190,
-    "open_issues_count": 96,
-    "forks_count": 1584
+    "stargazers_count": 4220,
+    "open_issues_count": 100,
+    "forks_count": 1596
   },
   {
     "full_name": "AdekolaToniloba/design-resources-for-developers",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "markedjs/marked",
-    "stargazers_count": 28825,
+    "stargazers_count": 28837,
     "open_issues_count": 32,
     "forks_count": 3276
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "adrianhajdin/project_professional_portfolio",
-    "stargazers_count": 1481,
-    "open_issues_count": 30,
-    "forks_count": 390
+    "stargazers_count": 1489,
+    "open_issues_count": 31,
+    "forks_count": 393
   },
   {
     "full_name": "jrgarciadev/dev-cover",
@@ -103,57 +103,57 @@
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 30670,
-    "open_issues_count": 217,
-    "forks_count": 55252
+    "stargazers_count": 30695,
+    "open_issues_count": 308,
+    "forks_count": 55345
   },
   {
     "full_name": "rahuldkjain/github-profile-readme-generator",
-    "stargazers_count": 13836,
-    "open_issues_count": 258,
-    "forks_count": 3681
+    "stargazers_count": 13877,
+    "open_issues_count": 257,
+    "forks_count": 3694
   },
   {
     "full_name": "vercel/platforms",
-    "stargazers_count": 2280,
-    "open_issues_count": 15,
-    "forks_count": 219
+    "stargazers_count": 2285,
+    "open_issues_count": 16,
+    "forks_count": 221
   },
   {
     "full_name": "eslint/eslint",
-    "stargazers_count": 21923,
-    "open_issues_count": 134,
-    "forks_count": 3987
+    "stargazers_count": 21941,
+    "open_issues_count": 129,
+    "forks_count": 3988
   },
   {
     "full_name": "standard/standard",
-    "stargazers_count": 27786,
+    "stargazers_count": 27798,
     "open_issues_count": 96,
-    "forks_count": 2353
+    "forks_count": 2352
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 34402,
-    "open_issues_count": 57,
-    "forks_count": 8355
+    "stargazers_count": 34423,
+    "open_issues_count": 48,
+    "forks_count": 8361
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 75842,
-    "open_issues_count": 9487,
-    "forks_count": 10175
+    "stargazers_count": 75933,
+    "open_issues_count": 9459,
+    "forks_count": 10182
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 241716,
-    "open_issues_count": 50,
-    "forks_count": 64512
+    "stargazers_count": 241949,
+    "open_issues_count": 49,
+    "forks_count": 64567
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 105981,
+    "stargazers_count": 106138,
     "open_issues_count": 0,
-    "forks_count": 11017
+    "forks_count": 11028
   },
   {
     "full_name": "alabobriggs/nodebestpractices",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 259191,
+    "stargazers_count": 259534,
     "open_issues_count": 55,
-    "forks_count": 52947
+    "forks_count": 52977
   },
   {
     "full_name": "zurichat/zc_plugin_company_holiday_calendar",
