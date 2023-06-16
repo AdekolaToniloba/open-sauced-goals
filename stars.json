@@ -1,33 +1,33 @@
 [
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 36524,
-    "open_issues_count": 256,
-    "forks_count": 8632
+    "stargazers_count": 36604,
+    "open_issues_count": 259,
+    "forks_count": 8647
   },
   {
     "full_name": "Asabeneh/10-days-of-git-and-github",
-    "stargazers_count": 1018,
+    "stargazers_count": 1020,
     "open_issues_count": 10,
     "forks_count": 265
   },
   {
     "full_name": "Asabeneh/30-Days-Of-React",
-    "stargazers_count": 21084,
-    "open_issues_count": 188,
-    "forks_count": 5757
+    "stargazers_count": 21125,
+    "open_issues_count": 192,
+    "forks_count": 5769
   },
   {
     "full_name": "Asabeneh/30-Days-Of-Python",
-    "stargazers_count": 24729,
+    "stargazers_count": 24788,
     "open_issues_count": 208,
-    "forks_count": 5342
+    "forks_count": 5358
   },
   {
     "full_name": "adrianhajdin/ecommerce_sanity_stripe",
-    "stargazers_count": 1784,
-    "open_issues_count": 73,
-    "forks_count": 525
+    "stargazers_count": 1781,
+    "open_issues_count": 72,
+    "forks_count": 523
   },
   {
     "full_name": "CynthiaPeter/Technical-Writing-Resources",
@@ -37,27 +37,27 @@
   },
   {
     "full_name": "alisolanki/Welcome-to-Open-Source",
-    "stargazers_count": 826,
-    "open_issues_count": 586,
-    "forks_count": 1223
+    "stargazers_count": 836,
+    "open_issues_count": 602,
+    "forks_count": 1241
   },
   {
     "full_name": "chainstacklabs/developer-hub-content",
-    "stargazers_count": 26,
-    "open_issues_count": 6,
+    "stargazers_count": 25,
+    "open_issues_count": 7,
     "forks_count": 15
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 3283,
+    "stargazers_count": 3294,
     "open_issues_count": 12,
-    "forks_count": 565
+    "forks_count": 567
   },
   {
     "full_name": "Shabinder/SpotiFlyer",
-    "stargazers_count": 8661,
-    "open_issues_count": 79,
-    "forks_count": 696
+    "stargazers_count": 8670,
+    "open_issues_count": 92,
+    "forks_count": 698
   },
   {
     "full_name": "davidrazmadzeExtra/CRA_ReactJS_Cleanup",
@@ -68,7 +68,7 @@
   {
     "full_name": "outreachy/website",
     "stargazers_count": 204,
-    "open_issues_count": 173,
+    "open_issues_count": 174,
     "forks_count": 232
   },
   {
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "fireship-io/flamethrower",
-    "stargazers_count": 2665,
+    "stargazers_count": 2668,
     "open_issues_count": 22,
     "forks_count": 105
   },
@@ -103,21 +103,21 @@
   },
   {
     "full_name": "HospitalRun/hospitalrun-frontend",
-    "stargazers_count": 6733,
+    "stargazers_count": 6732,
     "open_issues_count": 72,
     "forks_count": 2180
   },
   {
     "full_name": "hoodiehq/hoodie",
-    "stargazers_count": 4368,
+    "stargazers_count": 4372,
     "open_issues_count": 68,
     "forks_count": 461
   },
   {
     "full_name": "up-for-grabs/up-for-grabs.net",
-    "stargazers_count": 4579,
-    "open_issues_count": 55,
-    "forks_count": 1695
+    "stargazers_count": 4583,
+    "open_issues_count": 51,
+    "forks_count": 1738
   },
   {
     "full_name": "AdekolaToniloba/design-resources-for-developers",
@@ -133,8 +133,8 @@
   },
   {
     "full_name": "markedjs/marked",
-    "stargazers_count": 29874,
-    "open_issues_count": 37,
+    "stargazers_count": 29906,
+    "open_issues_count": 35,
     "forks_count": 3325
   },
   {
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "adrianhajdin/project_professional_portfolio",
-    "stargazers_count": 1768,
+    "stargazers_count": 1770,
     "open_issues_count": 39,
     "forks_count": 472
   },
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 34118,
-    "open_issues_count": 249,
-    "forks_count": 60843
+    "stargazers_count": 34140,
+    "open_issues_count": 351,
+    "forks_count": 60962
   },
   {
     "full_name": "rahuldkjain/github-profile-readme-generator",
-    "stargazers_count": 16059,
+    "stargazers_count": 16092,
     "open_issues_count": 286,
-    "forks_count": 4457
+    "forks_count": 4471
   },
   {
     "full_name": "vercel/platforms",
-    "stargazers_count": 2730,
+    "stargazers_count": 2741,
     "open_issues_count": 28,
-    "forks_count": 288
+    "forks_count": 290
   },
   {
     "full_name": "eslint/eslint",
-    "stargazers_count": 22811,
-    "open_issues_count": 126,
-    "forks_count": 4158
+    "stargazers_count": 22824,
+    "open_issues_count": 131,
+    "forks_count": 4164
   }
 ]
