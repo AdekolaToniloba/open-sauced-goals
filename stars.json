@@ -1,63 +1,63 @@
 [
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 36730,
-    "open_issues_count": 263,
-    "forks_count": 8669
+    "stargazers_count": 36813,
+    "open_issues_count": 264,
+    "forks_count": 8694
   },
   {
     "full_name": "Asabeneh/10-days-of-git-and-github",
-    "stargazers_count": 1026,
+    "stargazers_count": 1028,
     "open_issues_count": 10,
-    "forks_count": 265
+    "forks_count": 266
   },
   {
     "full_name": "Asabeneh/30-Days-Of-React",
-    "stargazers_count": 21203,
+    "stargazers_count": 21232,
     "open_issues_count": 190,
-    "forks_count": 5805
+    "forks_count": 5820
   },
   {
     "full_name": "Asabeneh/30-Days-Of-Python",
-    "stargazers_count": 24882,
-    "open_issues_count": 209,
-    "forks_count": 5373
+    "stargazers_count": 24943,
+    "open_issues_count": 210,
+    "forks_count": 5384
   },
   {
     "full_name": "adrianhajdin/ecommerce_sanity_stripe",
-    "stargazers_count": 1796,
+    "stargazers_count": 1808,
     "open_issues_count": 72,
-    "forks_count": 528
+    "forks_count": 536
   },
   {
     "full_name": "CynthiaPeter/Technical-Writing-Resources",
-    "stargazers_count": 494,
+    "stargazers_count": 495,
     "open_issues_count": 4,
     "forks_count": 108
   },
   {
     "full_name": "alisolanki/Welcome-to-Open-Source",
-    "stargazers_count": 856,
-    "open_issues_count": 618,
-    "forks_count": 1277
+    "stargazers_count": 868,
+    "open_issues_count": 631,
+    "forks_count": 1304
   },
   {
     "full_name": "chainstacklabs/developer-hub-content",
     "stargazers_count": 25,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 15
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 3305,
-    "open_issues_count": 13,
-    "forks_count": 570
+    "stargazers_count": 3313,
+    "open_issues_count": 7,
+    "forks_count": 575
   },
   {
     "full_name": "Shabinder/SpotiFlyer",
-    "stargazers_count": 8695,
-    "open_issues_count": 115,
-    "forks_count": 696
+    "stargazers_count": 8724,
+    "open_issues_count": 127,
+    "forks_count": 699
   },
   {
     "full_name": "davidrazmadzeExtra/CRA_ReactJS_Cleanup",
@@ -67,21 +67,21 @@
   },
   {
     "full_name": "outreachy/website",
-    "stargazers_count": 205,
+    "stargazers_count": 206,
     "open_issues_count": 174,
     "forks_count": 232
   },
   {
     "full_name": "outreachy/creative-works-and-scripts",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 7,
     "forks_count": 23
   },
   {
     "full_name": "fireship-io/flamethrower",
-    "stargazers_count": 2672,
+    "stargazers_count": 2674,
     "open_issues_count": 22,
-    "forks_count": 105
+    "forks_count": 106
   },
   {
     "full_name": "hcabel/UnrealVsCodeHelper",
@@ -103,21 +103,21 @@
   },
   {
     "full_name": "HospitalRun/hospitalrun-frontend",
-    "stargazers_count": 6734,
+    "stargazers_count": 6737,
     "open_issues_count": 72,
-    "forks_count": 2179
+    "forks_count": 2181
   },
   {
     "full_name": "hoodiehq/hoodie",
-    "stargazers_count": 4371,
+    "stargazers_count": 4370,
     "open_issues_count": 68,
     "forks_count": 461
   },
   {
     "full_name": "up-for-grabs/up-for-grabs.net",
-    "stargazers_count": 4599,
-    "open_issues_count": 48,
-    "forks_count": 1826
+    "stargazers_count": 4605,
+    "open_issues_count": 49,
+    "forks_count": 1844
   },
   {
     "full_name": "AdekolaToniloba/design-resources-for-developers",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "markedjs/marked",
-    "stargazers_count": 29929,
+    "stargazers_count": 29950,
     "open_issues_count": 35,
-    "forks_count": 3325
+    "forks_count": 3324
   },
   {
     "full_name": "UsamaBinKashif/404-page",
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "adrianhajdin/project_professional_portfolio",
-    "stargazers_count": 1773,
+    "stargazers_count": 1777,
     "open_issues_count": 39,
-    "forks_count": 473
+    "forks_count": 474
   },
   {
     "full_name": "jrgarciadev/dev-cover",
-    "stargazers_count": 221,
+    "stargazers_count": 222,
     "open_issues_count": 4,
-    "forks_count": 20
+    "forks_count": 22
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 34206,
-    "open_issues_count": 225,
-    "forks_count": 61206
+    "stargazers_count": 34479,
+    "open_issues_count": 233,
+    "forks_count": 61405
   },
   {
     "full_name": "rahuldkjain/github-profile-readme-generator",
-    "stargazers_count": 16174,
-    "open_issues_count": 286,
-    "forks_count": 4496
+    "stargazers_count": 16224,
+    "open_issues_count": 289,
+    "forks_count": 4509
   },
   {
     "full_name": "vercel/platforms",
-    "stargazers_count": 2761,
+    "stargazers_count": 2801,
     "open_issues_count": 28,
-    "forks_count": 293
+    "forks_count": 301
   },
   {
     "full_name": "eslint/eslint",
-    "stargazers_count": 22859,
-    "open_issues_count": 117,
-    "forks_count": 4242
+    "stargazers_count": 22997,
+    "open_issues_count": 121,
+    "forks_count": 4315
   }
 ]
