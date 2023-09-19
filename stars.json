@@ -1,81 +1,81 @@
 [
   {
     "full_name": "mosh-hamedani/game-hub",
-    "stargazers_count": 138,
-    "open_issues_count": 6,
-    "forks_count": 92
+    "stargazers_count": 140,
+    "open_issues_count": 7,
+    "forks_count": 94
   },
   {
     "full_name": "cloudcommunity/Free-Certifications",
-    "stargazers_count": 7461,
+    "stargazers_count": 7615,
     "open_issues_count": 30,
-    "forks_count": 738
+    "forks_count": 752
   },
   {
     "full_name": "automateyournetwork/automate_your_network",
-    "stargazers_count": 452,
-    "open_issues_count": 1,
+    "stargazers_count": 454,
+    "open_issues_count": 0,
     "forks_count": 19
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 38355,
-    "open_issues_count": 319,
-    "forks_count": 9104
+    "stargazers_count": 38420,
+    "open_issues_count": 322,
+    "forks_count": 9126
   },
   {
     "full_name": "Asabeneh/10-days-of-git-and-github",
-    "stargazers_count": 1108,
+    "stargazers_count": 1110,
     "open_issues_count": 12,
-    "forks_count": 286
+    "forks_count": 288
   },
   {
     "full_name": "Asabeneh/30-Days-Of-React",
-    "stargazers_count": 22543,
+    "stargazers_count": 22666,
     "open_issues_count": 210,
-    "forks_count": 6292
+    "forks_count": 6320
   },
   {
     "full_name": "Asabeneh/30-Days-Of-Python",
-    "stargazers_count": 26137,
-    "open_issues_count": 101,
-    "forks_count": 5662
+    "stargazers_count": 26184,
+    "open_issues_count": 103,
+    "forks_count": 5678
   },
   {
     "full_name": "adrianhajdin/ecommerce_sanity_stripe",
     "stargazers_count": 1905,
     "open_issues_count": 77,
-    "forks_count": 572
+    "forks_count": 579
   },
   {
     "full_name": "CynthiaPeter/Technical-Writing-Resources",
-    "stargazers_count": 575,
+    "stargazers_count": 584,
     "open_issues_count": 5,
     "forks_count": 121
   },
   {
     "full_name": "alisolanki/Welcome-to-Open-Source",
-    "stargazers_count": 1238,
-    "open_issues_count": 998,
-    "forks_count": 1888
+    "stargazers_count": 1255,
+    "open_issues_count": 1011,
+    "forks_count": 1907
   },
   {
     "full_name": "chainstacklabs/developer-hub-content",
     "stargazers_count": 28,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 14
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 3526,
-    "open_issues_count": 10,
-    "forks_count": 631
+    "stargazers_count": 3531,
+    "open_issues_count": 11,
+    "forks_count": 634
   },
   {
     "full_name": "Shabinder/SpotiFlyer",
-    "stargazers_count": 9108,
-    "open_issues_count": 267,
-    "forks_count": 719
+    "stargazers_count": 9124,
+    "open_issues_count": 270,
+    "forks_count": 721
   },
   {
     "full_name": "davidrazmadzeExtra/CRA_ReactJS_Cleanup",
@@ -97,8 +97,8 @@
   },
   {
     "full_name": "fireship-io/flamethrower",
-    "stargazers_count": 2735,
-    "open_issues_count": 22,
+    "stargazers_count": 2737,
+    "open_issues_count": 23,
     "forks_count": 109
   },
   {
@@ -123,19 +123,19 @@
     "full_name": "HospitalRun/hospitalrun-frontend",
     "stargazers_count": 6755,
     "open_issues_count": 72,
-    "forks_count": 2196
+    "forks_count": 2195
   },
   {
     "full_name": "hoodiehq/hoodie",
-    "stargazers_count": 4370,
+    "stargazers_count": 4371,
     "open_issues_count": 68,
-    "forks_count": 488
+    "forks_count": 489
   },
   {
     "full_name": "up-for-grabs/up-for-grabs.net",
-    "stargazers_count": 4803,
-    "open_issues_count": 53,
-    "forks_count": 2063
+    "stargazers_count": 4810,
+    "open_issues_count": 56,
+    "forks_count": 2066
   },
   {
     "full_name": "AdekolaToniloba/design-resources-for-developers",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "markedjs/marked",
-    "stargazers_count": 30450,
-    "open_issues_count": 21,
-    "forks_count": 3351
+    "stargazers_count": 30464,
+    "open_issues_count": 18,
+    "forks_count": 3350
   },
   {
     "full_name": "UsamaBinKashif/404-page",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "adrianhajdin/project_professional_portfolio",
-    "stargazers_count": 1853,
+    "stargazers_count": 1855,
     "open_issues_count": 39,
-    "forks_count": 481
+    "forks_count": 482
   },
   {
     "full_name": "jrgarciadev/dev-cover",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 37627,
-    "open_issues_count": 210,
-    "forks_count": 64920
+    "stargazers_count": 37705,
+    "open_issues_count": 232,
+    "forks_count": 65074
   }
 ]
