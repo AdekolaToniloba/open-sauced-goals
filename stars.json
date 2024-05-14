@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "ReaVNaiL/New-Grad-2024",
+    "stargazers_count": 5871,
+    "open_issues_count": 1,
+    "forks_count": 538
+  },
+  {
     "full_name": "BolajiAyodeji/technical-writing-template",
     "stargazers_count": 488,
     "open_issues_count": 0,
@@ -31,13 +37,13 @@
   },
   {
     "full_name": "lighthousand/books",
-    "stargazers_count": 536,
+    "stargazers_count": 548,
     "open_issues_count": 0,
-    "forks_count": 196
+    "forks_count": 199
   },
   {
     "full_name": "atmosgames/SuperSimple2DKit",
-    "stargazers_count": 1698,
+    "stargazers_count": 1695,
     "open_issues_count": 12,
     "forks_count": 592
   },
@@ -49,15 +55,15 @@
   },
   {
     "full_name": "iptv-org/iptv",
-    "stargazers_count": 78547,
-    "open_issues_count": 70,
-    "forks_count": 1795
+    "stargazers_count": 78652,
+    "open_issues_count": 73,
+    "forks_count": 1802
   },
   {
     "full_name": "zed-industries/zed",
-    "stargazers_count": 33631,
-    "open_issues_count": 1913,
-    "forks_count": 1636
+    "stargazers_count": 34094,
+    "open_issues_count": 1948,
+    "forks_count": 1672
   },
   {
     "full_name": "GAGAN2608/HackerRank-Practice",
@@ -67,15 +73,15 @@
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 49641,
-    "open_issues_count": 93,
-    "forks_count": 9468
+    "stargazers_count": 49734,
+    "open_issues_count": 85,
+    "forks_count": 9497
   },
   {
     "full_name": "sadanandpai/frontend-mini-challenges",
-    "stargazers_count": 1866,
-    "open_issues_count": 11,
-    "forks_count": 455
+    "stargazers_count": 1869,
+    "open_issues_count": 12,
+    "forks_count": 456
   },
   {
     "full_name": "ForrestKnight/open-source-cs-python",
@@ -85,45 +91,45 @@
   },
   {
     "full_name": "ForrestKnight/open-source-cs",
-    "stargazers_count": 17757,
-    "open_issues_count": 33,
-    "forks_count": 2921
+    "stargazers_count": 17777,
+    "open_issues_count": 34,
+    "forks_count": 2922
   },
   {
     "full_name": "abdulrahman1s/fem-dl",
-    "stargazers_count": 131,
+    "stargazers_count": 132,
     "open_issues_count": 9,
     "forks_count": 23
   },
   {
     "full_name": "markmead/hyperui",
-    "stargazers_count": 8429,
+    "stargazers_count": 8447,
     "open_issues_count": 0,
-    "forks_count": 335
+    "forks_count": 333
   },
   {
     "full_name": "IonicaBizau/git-stats",
-    "stargazers_count": 6321,
+    "stargazers_count": 6323,
     "open_issues_count": 11,
     "forks_count": 178
   },
   {
     "full_name": "whatwg/html",
-    "stargazers_count": 7721,
-    "open_issues_count": 1990,
-    "forks_count": 2537
+    "stargazers_count": 7726,
+    "open_issues_count": 1991,
+    "forks_count": 2538
   },
   {
     "full_name": "coderjojo/creative-profile-readme",
-    "stargazers_count": 2396,
+    "stargazers_count": 2399,
     "open_issues_count": 15,
     "forks_count": 507
   },
   {
     "full_name": "Syknapse/Contribute-To-This-Project",
     "stargazers_count": 2124,
-    "open_issues_count": 9,
-    "forks_count": 2915
+    "open_issues_count": 10,
+    "forks_count": 2922
   },
   {
     "full_name": "AdekolaToniloba/MetalHead",
@@ -139,44 +145,38 @@
   },
   {
     "full_name": "Dun-sin/Code-Magic",
-    "stargazers_count": 370,
+    "stargazers_count": 369,
     "open_issues_count": 1,
     "forks_count": 196
   },
   {
     "full_name": "mosh-hamedani/game-hub",
-    "stargazers_count": 232,
+    "stargazers_count": 233,
     "open_issues_count": 8,
-    "forks_count": 165
+    "forks_count": 167
   },
   {
     "full_name": "cloudcommunity/Free-Certifications",
-    "stargazers_count": 21477,
+    "stargazers_count": 21552,
     "open_issues_count": 46,
-    "forks_count": 1680
+    "forks_count": 1687
   },
   {
     "full_name": "automateyournetwork/automate_your_network",
-    "stargazers_count": 543,
+    "stargazers_count": 541,
     "open_issues_count": 2,
     "forks_count": 27
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 41021,
-    "open_issues_count": 339,
-    "forks_count": 9572
+    "stargazers_count": 41049,
+    "open_issues_count": 340,
+    "forks_count": 9569
   },
   {
     "full_name": "Asabeneh/10-days-of-git-and-github",
     "stargazers_count": 1269,
     "open_issues_count": 11,
     "forks_count": 317
-  },
-  {
-    "full_name": "Asabeneh/30-Days-Of-React",
-    "stargazers_count": 24338,
-    "open_issues_count": 221,
-    "forks_count": 6947
   }
 ]
