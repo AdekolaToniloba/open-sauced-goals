@@ -1,8 +1,50 @@
 [
   {
+    "full_name": "hngprojects/pr-deploy",
+    "stargazers_count": 43,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "hngprojects/hng_boilerplate_golang_web",
+    "stargazers_count": 76,
+    "open_issues_count": 26,
+    "forks_count": 38
+  },
+  {
+    "full_name": "hngprojects/hng_boilerplate_nestjs",
+    "stargazers_count": 173,
+    "open_issues_count": 183,
+    "forks_count": 101
+  },
+  {
+    "full_name": "hngprojects/hng_boilerplate_java_web",
+    "stargazers_count": 150,
+    "open_issues_count": 80,
+    "forks_count": 37
+  },
+  {
+    "full_name": "hngprojects/hng_boilerplate_php_laravel_web",
+    "stargazers_count": 139,
+    "open_issues_count": 111,
+    "forks_count": 55
+  },
+  {
+    "full_name": "hngprojects/hng_boilerplate_remix",
+    "stargazers_count": 132,
+    "open_issues_count": 139,
+    "forks_count": 130
+  },
+  {
+    "full_name": "hngprojects/hng_boilerplate_python_fastapi_web",
+    "stargazers_count": 151,
+    "open_issues_count": 223,
+    "forks_count": 128
+  },
+  {
     "full_name": "hngprojects/hng_boilerplate_nextjs",
-    "stargazers_count": 21,
-    "open_issues_count": 143,
+    "stargazers_count": 201,
+    "open_issues_count": 128,
     "forks_count": 252
   },
   {
@@ -37,7 +79,7 @@
   },
   {
     "full_name": "Dun-sin/react-open-source-projects",
-    "stargazers_count": 267,
+    "stargazers_count": 269,
     "open_issues_count": 0,
     "forks_count": 51
   },
@@ -49,27 +91,27 @@
   },
   {
     "full_name": "sweetalert2/sweetalert2",
-    "stargazers_count": 17082,
-    "open_issues_count": 9,
+    "stargazers_count": 17093,
+    "open_issues_count": 10,
     "forks_count": 1603
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 61828,
-    "open_issues_count": 421,
-    "forks_count": 12168
+    "stargazers_count": 61846,
+    "open_issues_count": 422,
+    "forks_count": 12164
   },
   {
     "full_name": "bradtraversy/50projects50days",
-    "stargazers_count": 35961,
+    "stargazers_count": 36047,
     "open_issues_count": 16,
-    "forks_count": 8887
+    "forks_count": 8900
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 57638,
+    "stargazers_count": 57684,
     "open_issues_count": 0,
-    "forks_count": 11371
+    "forks_count": 11377
   },
   {
     "full_name": "AdekolaToniloba/MetalHead",
@@ -79,9 +121,9 @@
   },
   {
     "full_name": "codecrafters-io/learning-stipends",
-    "stargazers_count": 228,
+    "stargazers_count": 229,
     "open_issues_count": 0,
-    "forks_count": 24
+    "forks_count": 23
   },
   {
     "full_name": "rexthecoder/Bamboo",
@@ -91,9 +133,9 @@
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 291644,
-    "open_issues_count": 333,
-    "forks_count": 27400
+    "stargazers_count": 292457,
+    "open_issues_count": 334,
+    "forks_count": 27465
   },
   {
     "full_name": "stardot/beebem-windows",
@@ -103,9 +145,9 @@
   },
   {
     "full_name": "ReaVNaiL/New-Grad-2024",
-    "stargazers_count": 6205,
+    "stargazers_count": 6212,
     "open_issues_count": 0,
-    "forks_count": 559
+    "forks_count": 560
   },
   {
     "full_name": "BolajiAyodeji/technical-writing-template",
@@ -136,47 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "lighthousand/books",
-    "stargazers_count": 710,
-    "open_issues_count": 0,
-    "forks_count": 242
-  },
-  {
-    "full_name": "atmosgames/SuperSimple2DKit",
-    "stargazers_count": 1721,
-    "open_issues_count": 12,
-    "forks_count": 598
-  },
-  {
-    "full_name": "Technical-writing-mentorship-program/Technicalwritingcourse",
-    "stargazers_count": 43,
-    "open_issues_count": 72,
-    "forks_count": 15
-  },
-  {
-    "full_name": "iptv-org/iptv",
-    "stargazers_count": 82757,
-    "open_issues_count": 37,
-    "forks_count": 2256
-  },
-  {
-    "full_name": "zed-industries/zed",
-    "stargazers_count": 42945,
-    "open_issues_count": 2545,
-    "forks_count": 2298
-  },
-  {
-    "full_name": "GAGAN2608/HackerRank-Practice",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 10
-  },
-  {
-    "full_name": "rust-lang/rustlings",
-    "stargazers_count": 51692,
-    "open_issues_count": 24,
-    "forks_count": 9942
   }
 ]
