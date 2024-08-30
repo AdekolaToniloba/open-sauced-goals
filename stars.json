@@ -1,51 +1,57 @@
 [
   {
+    "full_name": "feder-cr/linkedIn_auto_jobs_applier_with_AI",
+    "stargazers_count": 8576,
+    "open_issues_count": 24,
+    "forks_count": 1081
+  },
+  {
     "full_name": "hngprojects/pr-deploy",
     "stargazers_count": 46,
     "open_issues_count": 1,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "hngprojects/hng_boilerplate_golang_web",
-    "stargazers_count": 78,
+    "stargazers_count": 77,
     "open_issues_count": 10,
     "forks_count": 49
   },
   {
     "full_name": "hngprojects/hng_boilerplate_nestjs",
-    "stargazers_count": 182,
-    "open_issues_count": 363,
+    "stargazers_count": 181,
+    "open_issues_count": 362,
     "forks_count": 105
   },
   {
     "full_name": "hngprojects/hng_boilerplate_java_web",
-    "stargazers_count": 157,
-    "open_issues_count": 112,
-    "forks_count": 42
+    "stargazers_count": 156,
+    "open_issues_count": 111,
+    "forks_count": 43
   },
   {
     "full_name": "hngprojects/hng_boilerplate_php_laravel_web",
     "stargazers_count": 148,
-    "open_issues_count": 29,
+    "open_issues_count": 28,
     "forks_count": 58
   },
   {
     "full_name": "hngprojects/hng_boilerplate_remix",
-    "stargazers_count": 133,
+    "stargazers_count": 132,
     "open_issues_count": 138,
     "forks_count": 127
   },
   {
     "full_name": "hngprojects/hng_boilerplate_python_fastapi_web",
-    "stargazers_count": 154,
-    "open_issues_count": 252,
-    "forks_count": 140
+    "stargazers_count": 153,
+    "open_issues_count": 246,
+    "forks_count": 141
   },
   {
     "full_name": "hngprojects/hng_boilerplate_nextjs",
-    "stargazers_count": 205,
-    "open_issues_count": 432,
-    "forks_count": 265
+    "stargazers_count": 204,
+    "open_issues_count": 431,
+    "forks_count": 263
   },
   {
     "full_name": "devagrawal09/ampitrix",
@@ -79,39 +85,39 @@
   },
   {
     "full_name": "Dun-sin/react-open-source-projects",
-    "stargazers_count": 275,
+    "stargazers_count": 276,
     "open_issues_count": 0,
     "forks_count": 52
   },
   {
     "full_name": "KarenOk/whatsapp-web-clone",
-    "stargazers_count": 704,
+    "stargazers_count": 705,
     "open_issues_count": 4,
     "forks_count": 182
   },
   {
     "full_name": "sweetalert2/sweetalert2",
-    "stargazers_count": 17136,
+    "stargazers_count": 17144,
     "open_issues_count": 10,
     "forks_count": 1606
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 61959,
-    "open_issues_count": 427,
-    "forks_count": 12152
+    "stargazers_count": 61977,
+    "open_issues_count": 436,
+    "forks_count": 12146
   },
   {
     "full_name": "bradtraversy/50projects50days",
-    "stargazers_count": 36284,
-    "open_issues_count": 19,
-    "forks_count": 8959
+    "stargazers_count": 36332,
+    "open_issues_count": 20,
+    "forks_count": 8965
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 57972,
-    "open_issues_count": 0,
-    "forks_count": 11392
+    "stargazers_count": 58017,
+    "open_issues_count": 1,
+    "forks_count": 11395
   },
   {
     "full_name": "AdekolaToniloba/MetalHead",
@@ -121,7 +127,7 @@
   },
   {
     "full_name": "codecrafters-io/learning-stipends",
-    "stargazers_count": 234,
+    "stargazers_count": 236,
     "open_issues_count": 0,
     "forks_count": 27
   },
@@ -133,9 +139,9 @@
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 296799,
+    "stargazers_count": 297326,
     "open_issues_count": 334,
-    "forks_count": 27850
+    "forks_count": 27891
   },
   {
     "full_name": "stardot/beebem-windows",
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "ReaVNaiL/New-Grad-2024",
-    "stargazers_count": 6271,
-    "open_issues_count": 1,
-    "forks_count": 565
+    "stargazers_count": 6277,
+    "open_issues_count": 2,
+    "forks_count": 566
   },
   {
     "full_name": "BolajiAyodeji/technical-writing-template",
@@ -172,11 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "lighthousand/You-Dont-Know-JS",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
