@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "magicuidesign/magicui",
+    "stargazers_count": 7864,
+    "open_issues_count": 93,
+    "forks_count": 302
+  },
+  {
+    "full_name": "ubaimutl/react-portfolio",
+    "stargazers_count": 777,
+    "open_issues_count": 0,
+    "forks_count": 382
+  },
+  {
     "full_name": "feder-cr/linkedIn_auto_jobs_applier_with_AI",
-    "stargazers_count": 8576,
-    "open_issues_count": 24,
-    "forks_count": 1081
+    "stargazers_count": 10356,
+    "open_issues_count": 60,
+    "forks_count": 1480
   },
   {
     "full_name": "hngprojects/pr-deploy",
@@ -15,7 +27,7 @@
     "full_name": "hngprojects/hng_boilerplate_golang_web",
     "stargazers_count": 77,
     "open_issues_count": 10,
-    "forks_count": 49
+    "forks_count": 50
   },
   {
     "full_name": "hngprojects/hng_boilerplate_nestjs",
@@ -25,7 +37,7 @@
   },
   {
     "full_name": "hngprojects/hng_boilerplate_java_web",
-    "stargazers_count": 156,
+    "stargazers_count": 157,
     "open_issues_count": 111,
     "forks_count": 43
   },
@@ -49,9 +61,9 @@
   },
   {
     "full_name": "hngprojects/hng_boilerplate_nextjs",
-    "stargazers_count": 204,
-    "open_issues_count": 431,
-    "forks_count": 263
+    "stargazers_count": 205,
+    "open_issues_count": 427,
+    "forks_count": 265
   },
   {
     "full_name": "devagrawal09/ampitrix",
@@ -67,9 +79,9 @@
   },
   {
     "full_name": "bencodezen/amp-shark",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "learnwithjason/4d1a-retro-games-amplify",
@@ -91,33 +103,33 @@
   },
   {
     "full_name": "KarenOk/whatsapp-web-clone",
-    "stargazers_count": 705,
+    "stargazers_count": 706,
     "open_issues_count": 4,
-    "forks_count": 182
+    "forks_count": 183
   },
   {
     "full_name": "sweetalert2/sweetalert2",
-    "stargazers_count": 17144,
-    "open_issues_count": 10,
+    "stargazers_count": 17156,
+    "open_issues_count": 12,
     "forks_count": 1606
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 61977,
-    "open_issues_count": 436,
-    "forks_count": 12146
+    "stargazers_count": 61994,
+    "open_issues_count": 433,
+    "forks_count": 12148
   },
   {
     "full_name": "bradtraversy/50projects50days",
-    "stargazers_count": 36332,
+    "stargazers_count": 36385,
     "open_issues_count": 20,
-    "forks_count": 8965
+    "forks_count": 8974
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 58017,
-    "open_issues_count": 1,
-    "forks_count": 11395
+    "stargazers_count": 58087,
+    "open_issues_count": 5,
+    "forks_count": 11397
   },
   {
     "full_name": "AdekolaToniloba/MetalHead",
@@ -127,7 +139,7 @@
   },
   {
     "full_name": "codecrafters-io/learning-stipends",
-    "stargazers_count": 236,
+    "stargazers_count": 238,
     "open_issues_count": 0,
     "forks_count": 27
   },
@@ -139,9 +151,9 @@
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 297326,
+    "stargazers_count": 297974,
     "open_issues_count": 334,
-    "forks_count": 27891
+    "forks_count": 27964
   },
   {
     "full_name": "stardot/beebem-windows",
@@ -151,7 +163,7 @@
   },
   {
     "full_name": "ReaVNaiL/New-Grad-2024",
-    "stargazers_count": 6277,
+    "stargazers_count": 6275,
     "open_issues_count": 2,
     "forks_count": 566
   },
@@ -164,18 +176,6 @@
   {
     "full_name": "lighthousand/en.javascript.info",
     "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "lighthousand/javascript-tutorial-ro",
-    "stargazers_count": 3,
-    "open_issues_count": 1,
-    "forks_count": 5
-  },
-  {
-    "full_name": "lighthousand/javascript-path",
-    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   }
