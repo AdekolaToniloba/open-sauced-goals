@@ -1,27 +1,39 @@
 [
   {
+    "full_name": "Hashnode/starter-kit",
+    "stargazers_count": 489,
+    "open_issues_count": 10,
+    "forks_count": 741
+  },
+  {
+    "full_name": "Athlon1600/youtube-downloader",
+    "stargazers_count": 801,
+    "open_issues_count": 65,
+    "forks_count": 315
+  },
+  {
     "full_name": "xtermjs/xterm.js",
-    "stargazers_count": 17423,
+    "stargazers_count": 17439,
     "open_issues_count": 218,
     "forks_count": 1616
   },
   {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 8603,
-    "open_issues_count": 102,
-    "forks_count": 331
+    "stargazers_count": 8772,
+    "open_issues_count": 107,
+    "forks_count": 342
   },
   {
     "full_name": "ubaimutl/react-portfolio",
-    "stargazers_count": 787,
+    "stargazers_count": 786,
     "open_issues_count": 0,
-    "forks_count": 384
+    "forks_count": 382
   },
   {
     "full_name": "feder-cr/linkedIn_auto_jobs_applier_with_AI",
-    "stargazers_count": 11680,
-    "open_issues_count": 25,
-    "forks_count": 1799
+    "stargazers_count": 11969,
+    "open_issues_count": 32,
+    "forks_count": 1859
   },
   {
     "full_name": "hngprojects/pr-deploy",
@@ -37,7 +49,7 @@
   },
   {
     "full_name": "hngprojects/hng_boilerplate_nestjs",
-    "stargazers_count": 182,
+    "stargazers_count": 181,
     "open_issues_count": 362,
     "forks_count": 105
   },
@@ -61,14 +73,14 @@
   },
   {
     "full_name": "hngprojects/hng_boilerplate_python_fastapi_web",
-    "stargazers_count": 153,
+    "stargazers_count": 154,
     "open_issues_count": 246,
     "forks_count": 137
   },
   {
     "full_name": "hngprojects/hng_boilerplate_nextjs",
     "stargazers_count": 205,
-    "open_issues_count": 427,
+    "open_issues_count": 366,
     "forks_count": 264
   },
   {
@@ -103,39 +115,39 @@
   },
   {
     "full_name": "Dun-sin/react-open-source-projects",
-    "stargazers_count": 279,
+    "stargazers_count": 283,
     "open_issues_count": 0,
-    "forks_count": 52
+    "forks_count": 53
   },
   {
     "full_name": "KarenOk/whatsapp-web-clone",
-    "stargazers_count": 706,
+    "stargazers_count": 705,
     "open_issues_count": 4,
     "forks_count": 181
   },
   {
     "full_name": "sweetalert2/sweetalert2",
-    "stargazers_count": 17207,
+    "stargazers_count": 17214,
     "open_issues_count": 10,
-    "forks_count": 1611
+    "forks_count": 1610
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 62046,
-    "open_issues_count": 429,
-    "forks_count": 12143
+    "stargazers_count": 62058,
+    "open_issues_count": 602,
+    "forks_count": 12147
   },
   {
     "full_name": "bradtraversy/50projects50days",
-    "stargazers_count": 36640,
-    "open_issues_count": 22,
-    "forks_count": 9019
+    "stargazers_count": 36709,
+    "open_issues_count": 24,
+    "forks_count": 9042
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 58191,
-    "open_issues_count": 1,
-    "forks_count": 11421
+    "stargazers_count": 58243,
+    "open_issues_count": 2,
+    "forks_count": 11432
   },
   {
     "full_name": "AdekolaToniloba/MetalHead",
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 299545,
-    "open_issues_count": 333,
-    "forks_count": 28102
+    "stargazers_count": 300211,
+    "open_issues_count": 332,
+    "forks_count": 28165
   },
   {
     "full_name": "stardot/beebem-windows",
     "stargazers_count": 87,
     "open_issues_count": 49,
     "forks_count": 34
-  },
-  {
-    "full_name": "ReaVNaiL/New-Grad-2024",
-    "stargazers_count": 6295,
-    "open_issues_count": 0,
-    "forks_count": 567
-  },
-  {
-    "full_name": "BolajiAyodeji/technical-writing-template",
-    "stargazers_count": 497,
-    "open_issues_count": 0,
-    "forks_count": 114
   }
 ]
