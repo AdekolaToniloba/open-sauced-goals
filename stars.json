@@ -1,8 +1,8 @@
 [
   {
     "full_name": "mastra-ai/mastra",
-    "stargazers_count": 1172,
-    "open_issues_count": 5,
+    "stargazers_count": 1175,
+    "open_issues_count": 1,
     "forks_count": 35
   },
   {
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "kodestan/tank-ops",
-    "stargazers_count": 659,
+    "stargazers_count": 660,
     "open_issues_count": 10,
     "forks_count": 58
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 180283,
+    "stargazers_count": 180334,
     "open_issues_count": 126,
-    "forks_count": 33535
+    "forks_count": 33541
   },
   {
     "full_name": "github/forgoodfirstissue",
@@ -43,26 +43,26 @@
   },
   {
     "full_name": "SimplifyJobs/Summer2025-Internships",
-    "stargazers_count": 35547,
+    "stargazers_count": 35590,
     "open_issues_count": 4,
-    "forks_count": 2807
+    "forks_count": 2808
   },
   {
     "full_name": "hijkzzz/Awesome-LLM-Strawberry",
-    "stargazers_count": 5908,
-    "open_issues_count": 15,
-    "forks_count": 322
+    "stargazers_count": 5961,
+    "open_issues_count": 16,
+    "forks_count": 327
   },
   {
     "full_name": "leerob/next-saas-starter",
-    "stargazers_count": 7315,
+    "stargazers_count": 7375,
     "open_issues_count": 10,
-    "forks_count": 783
+    "forks_count": 799
   },
   {
     "full_name": "Hashnode/starter-kit",
     "stargazers_count": 542,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 803
   },
   {
@@ -73,27 +73,27 @@
   },
   {
     "full_name": "xtermjs/xterm.js",
-    "stargazers_count": 17926,
+    "stargazers_count": 17946,
     "open_issues_count": 221,
-    "forks_count": 1647
+    "forks_count": 1648
   },
   {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 12694,
-    "open_issues_count": 40,
-    "forks_count": 513
+    "stargazers_count": 12782,
+    "open_issues_count": 25,
+    "forks_count": 524
   },
   {
     "full_name": "ubaimutl/react-portfolio",
-    "stargazers_count": 881,
+    "stargazers_count": 884,
     "open_issues_count": 0,
-    "forks_count": 430
+    "forks_count": 429
   },
   {
-    "full_name": "AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent",
-    "stargazers_count": 23839,
-    "open_issues_count": 111,
-    "forks_count": 3516
+    "full_name": "feder-cr/Jobs_Applier_AI_Agent",
+    "stargazers_count": 23896,
+    "open_issues_count": 99,
+    "forks_count": 3522
   },
   {
     "full_name": "hngprojects/pr-deploy",
