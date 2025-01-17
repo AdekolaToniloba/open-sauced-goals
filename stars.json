@@ -1,9 +1,9 @@
 [
   {
     "full_name": "mastra-ai/mastra",
-    "stargazers_count": 1254,
-    "open_issues_count": 8,
-    "forks_count": 39
+    "stargazers_count": 1266,
+    "open_issues_count": 4,
+    "forks_count": 45
   },
   {
     "full_name": "styxnanda/naerys-knight",
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "kodestan/tank-ops",
-    "stargazers_count": 666,
+    "stargazers_count": 668,
     "open_issues_count": 10,
     "forks_count": 58
   },
@@ -24,46 +24,40 @@
     "forks_count": 8
   },
   {
-    "full_name": "fauna/write-with-fauna",
-    "stargazers_count": 16,
-    "open_issues_count": 1,
-    "forks_count": 3
-  },
-  {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 180630,
+    "stargazers_count": 180666,
     "open_issues_count": 126,
-    "forks_count": 33564
+    "forks_count": 33569
   },
   {
     "full_name": "github/forgoodfirstissue",
-    "stargazers_count": 92,
+    "stargazers_count": 94,
     "open_issues_count": 16,
     "forks_count": 40
   },
   {
     "full_name": "SimplifyJobs/Summer2025-Internships",
-    "stargazers_count": 35755,
-    "open_issues_count": 5,
-    "forks_count": 2821
+    "stargazers_count": 35790,
+    "open_issues_count": 6,
+    "forks_count": 2823
   },
   {
     "full_name": "hijkzzz/Awesome-LLM-Strawberry",
-    "stargazers_count": 6206,
-    "open_issues_count": 15,
-    "forks_count": 340
+    "stargazers_count": 6239,
+    "open_issues_count": 17,
+    "forks_count": 344
   },
   {
     "full_name": "leerob/next-saas-starter",
-    "stargazers_count": 8086,
-    "open_issues_count": 11,
-    "forks_count": 861
+    "stargazers_count": 8181,
+    "open_issues_count": 10,
+    "forks_count": 867
   },
   {
     "full_name": "Hashnode/starter-kit",
     "stargazers_count": 543,
     "open_issues_count": 14,
-    "forks_count": 810
+    "forks_count": 813
   },
   {
     "full_name": "Athlon1600/youtube-downloader",
@@ -73,27 +67,27 @@
   },
   {
     "full_name": "xtermjs/xterm.js",
-    "stargazers_count": 17999,
+    "stargazers_count": 18011,
     "open_issues_count": 208,
-    "forks_count": 1653
+    "forks_count": 1655
   },
   {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 13333,
-    "open_issues_count": 29,
+    "stargazers_count": 13481,
+    "open_issues_count": 24,
     "forks_count": 545
   },
   {
     "full_name": "ubaimutl/react-portfolio",
-    "stargazers_count": 901,
+    "stargazers_count": 904,
     "open_issues_count": 0,
-    "forks_count": 435
+    "forks_count": 436
   },
   {
     "full_name": "feder-cr/Jobs_Applier_AI_Agent",
-    "stargazers_count": 26200,
-    "open_issues_count": 101,
-    "forks_count": 3840
+    "stargazers_count": 26447,
+    "open_issues_count": 103,
+    "forks_count": 3881
   },
   {
     "full_name": "hngprojects/pr-deploy",
@@ -115,19 +109,19 @@
   },
   {
     "full_name": "hngprojects/hng_boilerplate_java_web",
-    "stargazers_count": 153,
+    "stargazers_count": 152,
     "open_issues_count": 111,
     "forks_count": 44
   },
   {
     "full_name": "hngprojects/hng_boilerplate_php_laravel_web",
-    "stargazers_count": 144,
+    "stargazers_count": 143,
     "open_issues_count": 28,
     "forks_count": 58
   },
   {
     "full_name": "hngprojects/hng_boilerplate_remix",
-    "stargazers_count": 129,
+    "stargazers_count": 128,
     "open_issues_count": 138,
     "forks_count": 125
   },
@@ -178,5 +172,11 @@
     "stargazers_count": 305,
     "open_issues_count": 0,
     "forks_count": 59
+  },
+  {
+    "full_name": "KarenOk/whatsapp-web-clone",
+    "stargazers_count": 716,
+    "open_issues_count": 4,
+    "forks_count": 189
   }
 ]
