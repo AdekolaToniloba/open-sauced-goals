@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "misprit7/PCB-Business-Card",
+    "stargazers_count": 60,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "Hemephelus/greed_pig",
     "stargazers_count": 2,
     "open_issues_count": 4,
@@ -7,33 +13,33 @@
   },
   {
     "full_name": "Nazar2347/Snake",
-    "stargazers_count": 177,
+    "stargazers_count": 180,
     "open_issues_count": 4,
     "forks_count": 16
   },
   {
     "full_name": "google-gemini/gemini-cli",
-    "stargazers_count": 68741,
-    "open_issues_count": 1738,
-    "forks_count": 6841
+    "stargazers_count": 69465,
+    "open_issues_count": 1789,
+    "forks_count": 6976
   },
   {
     "full_name": "HabitRPG/habitica",
-    "stargazers_count": 13145,
+    "stargazers_count": 13152,
     "open_issues_count": 174,
-    "forks_count": 4274
+    "forks_count": 4277
   },
   {
     "full_name": "davidhu2000/react-spinners",
-    "stargazers_count": 3291,
-    "open_issues_count": 16,
-    "forks_count": 284
+    "stargazers_count": 3292,
+    "open_issues_count": 20,
+    "forks_count": 283
   },
   {
     "full_name": "mastra-ai/mastra",
-    "stargazers_count": 15700,
-    "open_issues_count": 283,
-    "forks_count": 1001
+    "stargazers_count": 15781,
+    "open_issues_count": 289,
+    "forks_count": 1010
   },
   {
     "full_name": "styxnanda/naerys-knight",
@@ -45,7 +51,7 @@
     "full_name": "kodestan/tank-ops",
     "stargazers_count": 737,
     "open_issues_count": 8,
-    "forks_count": 62
+    "forks_count": 63
   },
   {
     "full_name": "prechy123/Anime-Connect",
@@ -55,37 +61,37 @@
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 182917,
+    "stargazers_count": 182952,
     "open_issues_count": 125,
-    "forks_count": 33656
+    "forks_count": 33657
   },
   {
     "full_name": "github/forgoodfirstissue",
     "stargazers_count": 156,
     "open_issues_count": 35,
-    "forks_count": 68
+    "forks_count": 67
   },
   {
     "full_name": "SimplifyJobs/Summer2026-Internships",
-    "stargazers_count": 39909,
+    "stargazers_count": 40001,
     "open_issues_count": 4,
-    "forks_count": 2995
+    "forks_count": 3002
   },
   {
     "full_name": "hijkzzz/Awesome-LLM-Strawberry",
-    "stargazers_count": 6813,
-    "open_issues_count": 21,
+    "stargazers_count": 6816,
+    "open_issues_count": 20,
     "forks_count": 379
   },
   {
     "full_name": "nextjs/saas-starter",
-    "stargazers_count": 13205,
+    "stargazers_count": 13234,
     "open_issues_count": 22,
-    "forks_count": 1925
+    "forks_count": 1935
   },
   {
     "full_name": "Hashnode/starter-kit",
-    "stargazers_count": 599,
+    "stargazers_count": 600,
     "open_issues_count": 18,
     "forks_count": 887
   },
@@ -97,15 +103,15 @@
   },
   {
     "full_name": "xtermjs/xterm.js",
-    "stargazers_count": 18954,
-    "open_issues_count": 222,
-    "forks_count": 1735
+    "stargazers_count": 18972,
+    "open_issues_count": 221,
+    "forks_count": 1736
   },
   {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 18305,
-    "open_issues_count": 21,
-    "forks_count": 792
+    "stargazers_count": 18363,
+    "open_issues_count": 19,
+    "forks_count": 795
   },
   {
     "full_name": "ubaimutl/react-portfolio",
@@ -115,9 +121,9 @@
   },
   {
     "full_name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
-    "stargazers_count": 28552,
+    "stargazers_count": 28564,
     "open_issues_count": 11,
-    "forks_count": 4319
+    "forks_count": 4320
   },
   {
     "full_name": "hngprojects/pr-deploy",
@@ -170,12 +176,6 @@
   {
     "full_name": "devagrawal09/ampitrix",
     "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "lindsaykwardell/amplify",
-    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 1
   }
