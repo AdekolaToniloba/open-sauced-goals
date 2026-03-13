@@ -1,9 +1,9 @@
 [
   {
     "full_name": "grafana/k6",
-    "stargazers_count": 30075,
-    "open_issues_count": 797,
-    "forks_count": 1506
+    "stargazers_count": 30116,
+    "open_issues_count": 803,
+    "forks_count": 1507
   },
   {
     "full_name": "Ifihan/briefen-me",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "The-DevOps-Daily/devops-daily",
-    "stargazers_count": 1050,
-    "open_issues_count": 33,
-    "forks_count": 384
+    "stargazers_count": 1052,
+    "open_issues_count": 27,
+    "forks_count": 385
   },
   {
     "full_name": "misprit7/PCB-Business-Card",
@@ -61,27 +61,27 @@
   },
   {
     "full_name": "google-gemini/gemini-cli",
-    "stargazers_count": 97056,
-    "open_issues_count": 2767,
-    "forks_count": 12082
+    "stargazers_count": 97450,
+    "open_issues_count": 2874,
+    "forks_count": 12187
   },
   {
     "full_name": "HabitRPG/habitica",
-    "stargazers_count": 13724,
-    "open_issues_count": 178,
-    "forks_count": 4396
+    "stargazers_count": 13727,
+    "open_issues_count": 172,
+    "forks_count": 4398
   },
   {
     "full_name": "davidhu2000/react-spinners",
     "stargazers_count": 3338,
     "open_issues_count": 19,
-    "forks_count": 284
+    "forks_count": 283
   },
   {
     "full_name": "mastra-ai/mastra",
-    "stargazers_count": 21834,
-    "open_issues_count": 422,
-    "forks_count": 1688
+    "stargazers_count": 21934,
+    "open_issues_count": 373,
+    "forks_count": 1703
   },
   {
     "full_name": "styxnanda/naerys-knight",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "kodestan/tank-ops",
-    "stargazers_count": 756,
+    "stargazers_count": 755,
     "open_issues_count": 9,
     "forks_count": 62
   },
@@ -103,20 +103,20 @@
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 184479,
+    "stargazers_count": 184492,
     "open_issues_count": 2,
-    "forks_count": 33626
+    "forks_count": 33623
   },
   {
     "full_name": "github/forgoodfirstissue",
-    "stargazers_count": 217,
-    "open_issues_count": 23,
-    "forks_count": 100
+    "stargazers_count": 219,
+    "open_issues_count": 24,
+    "forks_count": 102
   },
   {
     "full_name": "SimplifyJobs/Summer2026-Internships",
-    "stargazers_count": 43720,
-    "open_issues_count": 2,
+    "stargazers_count": 43756,
+    "open_issues_count": 4,
     "forks_count": 3173
   },
   {
@@ -127,33 +127,33 @@
   },
   {
     "full_name": "nextjs/saas-starter",
-    "stargazers_count": 15497,
+    "stargazers_count": 15508,
     "open_issues_count": 42,
-    "forks_count": 2575
+    "forks_count": 2579
   },
   {
     "full_name": "Hashnode/starter-kit",
-    "stargazers_count": 640,
+    "stargazers_count": 642,
     "open_issues_count": 24,
-    "forks_count": 932
+    "forks_count": 935
   },
   {
     "full_name": "Athlon1600/youtube-downloader",
-    "stargazers_count": 920,
+    "stargazers_count": 921,
     "open_issues_count": 78,
     "forks_count": 319
   },
   {
     "full_name": "xtermjs/xterm.js",
-    "stargazers_count": 20063,
-    "open_issues_count": 135,
-    "forks_count": 1827
+    "stargazers_count": 20093,
+    "open_issues_count": 121,
+    "forks_count": 1831
   },
   {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 20352,
-    "open_issues_count": 15,
-    "forks_count": 953
+    "stargazers_count": 20387,
+    "open_issues_count": 10,
+    "forks_count": 955
   },
   {
     "full_name": "ubaimutl/react-portfolio",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
-    "stargazers_count": 29433,
+    "stargazers_count": 29443,
     "open_issues_count": 27,
-    "forks_count": 4478
+    "forks_count": 4481
   },
   {
     "full_name": "hngprojects/pr-deploy",
@@ -177,6 +177,6 @@
     "full_name": "hngprojects/hng_boilerplate_golang_web",
     "stargazers_count": 82,
     "open_issues_count": 26,
-    "forks_count": 62
+    "forks_count": 61
   }
 ]
