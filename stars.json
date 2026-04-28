@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "cursor/cursor",
+    "stargazers_count": 32765,
+    "open_issues_count": 2,
+    "forks_count": 2226
+  },
+  {
     "full_name": "grafana/k6",
-    "stargazers_count": 30428,
-    "open_issues_count": 772,
-    "forks_count": 1525
+    "stargazers_count": 30457,
+    "open_issues_count": 775,
+    "forks_count": 1526
   },
   {
     "full_name": "Ifihan/briefen-me",
@@ -32,13 +38,13 @@
   {
     "full_name": "akinloluwami/db-thing",
     "stargazers_count": 210,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "The-DevOps-Daily/devops-daily",
     "stargazers_count": 1060,
-    "open_issues_count": 37,
+    "open_issues_count": 43,
     "forks_count": 386
   },
   {
@@ -61,27 +67,27 @@
   },
   {
     "full_name": "google-gemini/gemini-cli",
-    "stargazers_count": 102269,
-    "open_issues_count": 2908,
-    "forks_count": 13299
+    "stargazers_count": 102574,
+    "open_issues_count": 2882,
+    "forks_count": 13360
   },
   {
     "full_name": "HabitRPG/habitica",
-    "stargazers_count": 13846,
-    "open_issues_count": 176,
+    "stargazers_count": 13853,
+    "open_issues_count": 177,
     "forks_count": 4412
   },
   {
     "full_name": "davidhu2000/react-spinners",
-    "stargazers_count": 3339,
+    "stargazers_count": 3338,
     "open_issues_count": 21,
     "forks_count": 283
   },
   {
     "full_name": "mastra-ai/mastra",
-    "stargazers_count": 23268,
-    "open_issues_count": 381,
-    "forks_count": 1946
+    "stargazers_count": 23374,
+    "open_issues_count": 397,
+    "forks_count": 1969
   },
   {
     "full_name": "styxnanda/naerys-knight",
@@ -93,7 +99,7 @@
     "full_name": "kodestan/tank-ops",
     "stargazers_count": 756,
     "open_issues_count": 9,
-    "forks_count": 61
+    "forks_count": 60
   },
   {
     "full_name": "prechy123/Anime-Connect",
@@ -103,9 +109,9 @@
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 184443,
+    "stargazers_count": 184444,
     "open_issues_count": 2,
-    "forks_count": 33588
+    "forks_count": 33585
   },
   {
     "full_name": "github/forgoodfirstissue",
@@ -115,27 +121,27 @@
   },
   {
     "full_name": "SimplifyJobs/Summer2026-Internships",
-    "stargazers_count": 44283,
+    "stargazers_count": 44331,
     "open_issues_count": 4,
-    "forks_count": 3173
+    "forks_count": 3177
   },
   {
     "full_name": "hijkzzz/Awesome-LLM-Strawberry",
-    "stargazers_count": 6909,
+    "stargazers_count": 6906,
     "open_issues_count": 22,
     "forks_count": 368
   },
   {
     "full_name": "nextjs/saas-starter",
-    "stargazers_count": 15710,
+    "stargazers_count": 15731,
     "open_issues_count": 46,
-    "forks_count": 2616
+    "forks_count": 2621
   },
   {
     "full_name": "Hashnode/starter-kit",
     "stargazers_count": 645,
     "open_issues_count": 22,
-    "forks_count": 936
+    "forks_count": 935
   },
   {
     "full_name": "Athlon1600/youtube-downloader",
@@ -145,38 +151,32 @@
   },
   {
     "full_name": "xtermjs/xterm.js",
-    "stargazers_count": 20373,
-    "open_issues_count": 152,
-    "forks_count": 1867
+    "stargazers_count": 20390,
+    "open_issues_count": 157,
+    "forks_count": 1868
   },
   {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 20795,
+    "stargazers_count": 20829,
     "open_issues_count": 4,
-    "forks_count": 989
+    "forks_count": 991
   },
   {
     "full_name": "ubaimutl/react-portfolio",
-    "stargazers_count": 1153,
+    "stargazers_count": 1156,
     "open_issues_count": 1,
     "forks_count": 551
   },
   {
     "full_name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
-    "stargazers_count": 29713,
+    "stargazers_count": 29725,
     "open_issues_count": 26,
-    "forks_count": 4533
+    "forks_count": 4535
   },
   {
     "full_name": "hngprojects/pr-deploy",
     "stargazers_count": 50,
     "open_issues_count": 1,
     "forks_count": 11
-  },
-  {
-    "full_name": "hngprojects/hng_boilerplate_golang_web",
-    "stargazers_count": 82,
-    "open_issues_count": 26,
-    "forks_count": 61
   }
 ]
