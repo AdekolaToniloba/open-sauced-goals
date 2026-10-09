@@ -7,15 +7,15 @@
   },
   {
     "full_name": "cursor/cursor",
-    "stargazers_count": 33261,
+    "stargazers_count": 33265,
     "open_issues_count": 3,
     "forks_count": 2288
   },
   {
     "full_name": "grafana/k6",
-    "stargazers_count": 31799,
-    "open_issues_count": 776,
-    "forks_count": 1662
+    "stargazers_count": 31844,
+    "open_issues_count": 781,
+    "forks_count": 1666
   },
   {
     "full_name": "Ifihan/briefen-me",
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "The-DevOps-Daily/devops-daily",
-    "stargazers_count": 1132,
-    "open_issues_count": 93,
-    "forks_count": 417
+    "stargazers_count": 1136,
+    "open_issues_count": 96,
+    "forks_count": 421
   },
   {
     "full_name": "misprit7/PCB-Business-Card",
-    "stargazers_count": 64,
+    "stargazers_count": 65,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -73,27 +73,27 @@
   },
   {
     "full_name": "google-gemini/gemini-cli",
-    "stargazers_count": 107246,
-    "open_issues_count": 784,
-    "forks_count": 14699
+    "stargazers_count": 107266,
+    "open_issues_count": 758,
+    "forks_count": 14706
   },
   {
     "full_name": "HabitRPG/habitica",
-    "stargazers_count": 14185,
+    "stargazers_count": 14193,
     "open_issues_count": 123,
     "forks_count": 4450
   },
   {
     "full_name": "davidhu2000/react-spinners",
-    "stargazers_count": 3352,
-    "open_issues_count": 19,
+    "stargazers_count": 3354,
+    "open_issues_count": 21,
     "forks_count": 283
   },
   {
     "full_name": "mastra-ai/mastra",
-    "stargazers_count": 28582,
-    "open_issues_count": 534,
-    "forks_count": 2917
+    "stargazers_count": 28656,
+    "open_issues_count": 555,
+    "forks_count": 2946
   },
   {
     "full_name": "styxnanda/naerys-knight",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "kodestan/tank-ops",
-    "stargazers_count": 756,
+    "stargazers_count": 757,
     "open_issues_count": 9,
     "forks_count": 59
   },
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 185012,
+    "stargazers_count": 184805,
     "open_issues_count": 2,
-    "forks_count": 33390
+    "forks_count": 33380
   },
   {
     "full_name": "github/forgoodfirstissue",
-    "stargazers_count": 249,
+    "stargazers_count": 250,
     "open_issues_count": 50,
-    "forks_count": 140
+    "forks_count": 142
   },
   {
     "full_name": "SimplifyJobs/Summer2027-Internships",
-    "stargazers_count": 47873,
+    "stargazers_count": 47914,
     "open_issues_count": 111,
-    "forks_count": 3258
+    "forks_count": 3259
   },
   {
     "full_name": "hijkzzz/Awesome-LLM-Strawberry",
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "nextjs/saas-starter",
-    "stargazers_count": 16162,
+    "stargazers_count": 16169,
     "open_issues_count": 55,
     "forks_count": 2734
   },
   {
     "full_name": "Hashnode/starter-kit",
-    "stargazers_count": 651,
+    "stargazers_count": 650,
     "open_issues_count": 23,
-    "forks_count": 920
+    "forks_count": 919
   },
   {
     "full_name": "Athlon1600/youtube-downloader",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "xtermjs/xterm.js",
-    "stargazers_count": 21255,
+    "stargazers_count": 21260,
     "open_issues_count": 293,
     "forks_count": 2003
   },
   {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 22479,
-    "open_issues_count": 1,
-    "forks_count": 1141
+    "stargazers_count": 22521,
+    "open_issues_count": 3,
+    "forks_count": 1148
   },
   {
     "full_name": "ubaimutl/react-portfolio",
     "stargazers_count": 1175,
     "open_issues_count": 1,
-    "forks_count": 550
+    "forks_count": 551
   },
   {
-    "full_name": "feder-cr/invisible_playwright_mcp",
-    "stargazers_count": 31773,
-    "open_issues_count": 2,
-    "forks_count": 4687
+    "full_name": "feder-cr/invisible_dots",
+    "stargazers_count": 31899,
+    "open_issues_count": 0,
+    "forks_count": 4704
   }
 ]
